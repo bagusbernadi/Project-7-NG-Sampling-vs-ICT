@@ -1,0 +1,3 @@
+kondisi,nilai,risiko_relatif_ditanam,ng_rate_semua,n,porsi_unit_lot_ic_terburuk,ng_rate_tanpa_lot_ic_terburuk,n_tanpa
+ic_lot,Lot_B,6.0,0.12322274881516587,422,1.0,0.12322274881516587,422
+pcb_lot,Lot_F,1.0,0.08401639344262295,488,0.44672131147540983,0.040740740740740744,270

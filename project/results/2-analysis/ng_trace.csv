@@ -1,0 +1,6 @@
+ukuran,unit,porsi
+unit NG FCT,220,1.0
+tidak pernah di-ICT (di-skip),145,0.6590909090909091
+pernah di-ICT,75,0.3409090909090909
+"pernah di-ICT dan OK di ICT (lolos ICT, NG di FCT)",60,0.2727272727272727
+pernah di-ICT dan NG di ICT (NG di FCT setelah diperbaiki),15,0.06818181818181818

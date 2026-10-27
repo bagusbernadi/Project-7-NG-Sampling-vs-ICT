@@ -1,0 +1,9 @@
+kode,masalah,baris,keputusan,catatan
+C1,Baris FCT dengan nomor seri yang tidak ada di tabel unit (yatim),2,dibuang,Tidak bisa ditelusuri ke SMT Reflow
+C2,Baris ICT dengan nomor seri yang tidak ada di tabel unit (yatim),0,dibuang,Tidak ada
+C3,"Unit dengan lebih dari satu baris ICT (uji ulang tercatat dua kali, hasil sama)",7,dipertahankan satu baris (pertama),Satu unit satu hasil ICT
+C4,Unit dengan lebih dari satu baris FCT,0,tidak ada,-
+C5,Unit tanpa hasil FCT (belum diuji atau data hilang),88,"unit dipertahankan, dikeluarkan dari perhitungan NG rate",Dihitung terpisah (bukan OK dan bukan NG)
+C6,Tanggal FCT lebih awal dari tanggal SMT Reflow (tidak mungkin),6,"hasil dipakai, ditandai di date_flag, dikeluarkan dari hitungan harian",Tanggal salah ketik; hasil unit tetap valid
+C7,Tanggal ICT lebih awal dari tanggal SMT Reflow,0,tidak ada,-
+C8,Tanggal ICT lebih akhir dari tanggal FCT pada unit yang sama (di luar C6),0,tidak ada,Unit melewati ICT sebelum FCT

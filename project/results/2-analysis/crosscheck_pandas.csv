@@ -1,0 +1,23 @@
+pemeriksaan,jumlah_nilai,selisih_maks,status
+NG rate FCT per jalur,2,8.326672684688674e-17,PASS
+jumlah unit dan NG per jalur,4,0.0,PASS
+"kondisi conn_lot: n dan NG, Skip",8,0.0,PASS
+"kondisi conn_lot: n dan NG, ICT",8,0.0,PASS
+"kondisi ic_lot: n dan NG, Skip",16,0.0,PASS
+"kondisi ic_lot: n dan NG, ICT",16,0.0,PASS
+"kondisi pcb_lot: n dan NG, Skip",12,0.0,PASS
+"kondisi pcb_lot: n dan NG, ICT",12,0.0,PASS
+"kondisi shift: n dan NG, Skip",6,0.0,PASS
+"kondisi shift: n dan NG, ICT",6,0.0,PASS
+"kondisi smt_line: n dan NG, Skip",4,0.0,PASS
+"kondisi smt_line: n dan NG, ICT",4,0.0,PASS
+"kondisi smt_op: n dan NG, Skip",12,0.0,PASS
+"kondisi smt_op: n dan NG, ICT",12,0.0,PASS
+mode NG per jalur,4,0.0,PASS
+tabel silang ICT x FCT,4,0.0,PASS
+unit SMT Reflow per hari,59,0.0,PASS
+hasil ICT per hari,59,0.0,PASS
+hasil FCT per hari,59,0.0,PASS
+FCT OK rate per hari,58,1.1102230246251565e-16,PASS
+ICT OK rate per hari,56,1.1102230246251565e-16,PASS
+skip rate per hari,59,5.551115123125783e-17,PASS

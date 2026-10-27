@@ -1,0 +1,15 @@
+test,outcome
+unit tanpa kode anonim (nomor seri asli),ditolak
+unit_id ganda,ditolak
+operator bukan kode anonim,ditolak
+shift tidak dikenal,ditolak
+hasil ICT untuk unit yang tidak ada,ditolak
+hasil ICT bukan OK atau NG,ditolak
+ICT NG tanpa fail_net,ditolak
+hasil ICT ganda untuk satu unit,ditolak
+hasil FCT ganda untuk satu unit,ditolak
+FCT NG tanpa mode NG,ditolak
+mode NG tidak dikenal,ditolak
+tegangan drop negatif,ditolak
+skip_rate di luar 0 sampai 1,ditolak
+tanggal ganda di daily_summary,ditolak

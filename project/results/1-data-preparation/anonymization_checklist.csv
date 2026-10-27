@@ -1,0 +1,11 @@
+pemeriksaan,lulus,detail
+Nomor seri diganti kode acak U-0001 dan seterusnya,True,"7396 unit, kode unik"
+Operator diganti Op_01 dan seterusnya,True,6 operator
+"Lot (IC, PCB, konektor) diganti Lot_A dan seterusnya",True,18 lot
+"Lini dan shift diganti kode netral (Line_n, Shift_n)",True,tanpa nama mesin
+Nama net ICT diganti NET_nn,True,4 net
+"Kolom pelanggan, model produk, dan nama stasiun dihapus",True,kolom dihapus dari tabel bersih
+Tanggal digeser dengan selisih tetap,True,selisih tetap 137 hari
+Nilai asli tidak muncul di data bersih dan sampel (pindai teks),True,"7430 nilai asli dipindai di 6 file, 0 kecocokan"
+Mapping key tidak masuk repositori (.gitignore),True,<code>project/data/mapping_key.csv</code> diabaikan Git
+Data mentah tidak masuk repositori (.gitignore),True,<code>project/data/raw/</code> diabaikan Git

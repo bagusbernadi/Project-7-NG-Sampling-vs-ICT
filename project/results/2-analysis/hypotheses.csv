@@ -1,0 +1,6 @@
+id,hipotesis,verdict,bukti
+H1,Unit yang di-skip lebih sering NG di FCT daripada unit yang lolos ICT,Terbukti,"NG rate 4.2% (di-skip) vs 2.0% (di-ICT), risiko relatif 2.11, p Fisher 4.6e-08"
+H2,NG FCT terkumpul di beberapa lot IC atau lot PCB tertentu,Terbukti,"2 nilai kondisi berisiko tinggi (p Bonferroni < 0,05); lot IC tertinggi Lot_B"
+H3,Ada kondisi produksi dengan NG rate rendah yang aman di-skip,Sebagian,6 nilai kondisi dengan NG rate <= 3% dan n >= 30; pada evaluasi walk-forward rate sebenarnya 3.0% (batas 3%) dengan 17.9 jam ICT dihemat per bulan (estimated)
+H4,OK rate harian ICT tidak bisa dipakai menebak OK rate FCT di hari yang sama,Sebagian,korelasi hari sama r = 0.25 (p 0.09); jeda 1 hari r = 0.46 (p 0.001)
+H5,Sampel unit NG saja tidak cukup; data unit OK dibutuhkan sebagai pembanding,Sebagian,"komposisi sampel NG berbeda dari produksi (chi-kuadrat p < 0,05 pada 5 dari 6 kondisi); sampel 60 NG menemukan lot IC terburuk pada 99% undian, tetapi tanpa unit OK tidak ada NG rate dan kondisi aman"

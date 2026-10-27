@@ -1,0 +1,30 @@
+kondisi,nilai,risiko_relatif_ditanam,n_skip,ng_rate_skip,ditandai_berisiko,cukup_unit,hasil
+ic_lot,Lot_A,1.0,403,0.0124069478908188,False,True,benar tidak ditandai
+ic_lot,Lot_B,6.0,422,0.1232227488151658,True,True,terdeteksi
+ic_lot,Lot_E,1.0,610,0.0360655737704918,False,True,benar tidak ditandai
+ic_lot,Lot_H,1.0,444,0.0427927927927927,False,True,benar tidak ditandai
+ic_lot,Lot_J,1.0,692,0.0173410404624277,False,True,benar tidak ditandai
+ic_lot,Lot_K,6.0,13,0.2307692307692307,False,False,tidak dinilai (unit < 30)
+ic_lot,Lot_N,1.0,560,0.0303571428571428,False,True,benar tidak ditandai
+ic_lot,Lot_R,1.0,349,0.0429799426934097,False,True,benar tidak ditandai
+pcb_lot,Lot_C,1.0,274,0.0036496350364963,False,True,benar tidak ditandai
+pcb_lot,Lot_D,1.0,525,0.059047619047619,False,True,benar tidak ditandai
+pcb_lot,Lot_F,1.0,488,0.0840163934426229,True,True,positif palsu
+pcb_lot,Lot_G,2.0,1312,0.0403963414634146,False,True,terlewat
+pcb_lot,Lot_I,1.0,538,0.0148698884758364,False,True,benar tidak ditandai
+pcb_lot,Lot_O,1.0,356,0.0308988764044943,False,True,benar tidak ditandai
+conn_lot,Lot_L,1.3,713,0.0546984572230014,False,True,terlewat
+conn_lot,Lot_M,1.0,1155,0.0432900432900432,False,True,benar tidak ditandai
+conn_lot,Lot_P,1.0,950,0.0505263157894736,False,True,benar tidak ditandai
+conn_lot,Lot_Q,1.0,675,0.0118518518518518,False,True,benar tidak ditandai
+smt_op,Op_01,1.0,334,0.0508982035928143,False,True,benar tidak ditandai
+smt_op,Op_02,1.0,390,0.0179487179487179,False,True,benar tidak ditandai
+smt_op,Op_03,1.0,847,0.0401416765053128,False,True,benar tidak ditandai
+smt_op,Op_04,1.0,845,0.0366863905325443,False,True,benar tidak ditandai
+smt_op,Op_05,2.2,531,0.0621468926553672,False,True,terlewat
+smt_op,Op_06,1.0,546,0.0421245421245421,False,True,benar tidak ditandai
+smt_line,Line_1,1.0,1911,0.0381998953427524,False,True,benar tidak ditandai
+smt_line,Line_2,1.3,1582,0.04551201011378,False,True,terlewat
+shift,Shift_1,1.0,724,0.0331491712707182,False,True,benar tidak ditandai
+shift,Shift_2,1.0,1077,0.0519962859795728,False,True,benar tidak ditandai
+shift,Shift_3,1.2,1692,0.0384160756501182,False,True,terlewat

@@ -1,0 +1,12 @@
+pemeriksaan,violations
+setiap hasil ICT punya unit,0.0
+setiap hasil FCT punya unit,0.0
+fct_available cocok dengan keberadaan baris FCT,0.0
+jalur Skip + ICT = jumlah unit,0.0
+v_unit satu baris per unit,0.0
+jumlah unit v_path = unit dengan hasil FCT,0.0
+NG per kondisi = NG per jalur (tiap kondisi),0.0
+late NG hanya pada unit di-skip,0.0
+ICT harian = total baris ICT,0.0
+FCT harian = baris FCT tanpa date_flag,0.0
+unit SMT Reflow harian = jumlah unit,0.0
