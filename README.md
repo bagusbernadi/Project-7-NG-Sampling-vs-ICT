@@ -2,7 +2,7 @@
 
 # Project 7: NG Sampling vs ICT
 
-**Status: Selesai di branch `project-7-build` (menunggu review sebelum digabung ke `main`). Data adalah SIMULASI, bukan data pabrik.**
+**Status: Selesai dan digabung ke `main`. Data adalah SIMULASI, bukan data pabrik.**
 
 Halaman rancangan dan Report: https://bagusbernadi.github.io/Project-7-NG-Sampling-vs-ICT/
 
